@@ -1,8 +1,19 @@
+![Jocelyn Apodaca: dispatch to detection to red team](./banner.svg)
+
+```
+INCIDENT   #RT-0001                  PRIORITY  HIGH
+UNIT       J. APODACA                STATUS    EN ROUTE → RED TEAM
+CALL TYPE  CAREER CHANGE: 911 DISPATCH → OFFENSIVE SECURITY
+ASSIGNED   AI RED TEAMING · DETECTION ENGINEERING · FORENSICS
+NOTES      Trained to stay calm when everything is on fire.
+           Now breaking AI systems on purpose, before someone else does.
+```
+
 # Hi, I'm Jocelyn 👋
 
-I work where things go wrong in real time. I'm a **Real Time Crime Center technician**: I fly drones, watch camera feeds across the city, and dig up information that helps officers with active cases. Before that I was a 911 dispatcher and training officer, and a telecommunicator at White Sands Missile Range, where I held a DoD Secret clearance (now inactive).
+I work where things go wrong in real time. I'm a **Real Time Crime Center technician**: I fly drones, watch camera feeds, and dig up information that helps officers with active cases. I also work as a 911 dispatcher and communications training officer. Before that I was a telecommunicator on a military installation, where I held a DoD Secret clearance (now inactive).
 
-Now I'm moving that instinct, *find the signal fast and act on it*, into **cybersecurity**. I'm finishing a B.S. in Information & Communication Technology (Cyber Defense) at **New Mexico State University** (December 2027), and I'm working toward **red teaming, especially AI red teaming**: breaking AI systems before someone else does.
+Now I'm moving that instinct, *find the signal fast and act on it*, into **cybersecurity**. I'm finishing a B.S. in Information & Communication Technology (Cyber Defense), and I'm working toward **red teaming, especially AI red teaming**.
 
 ---
 
