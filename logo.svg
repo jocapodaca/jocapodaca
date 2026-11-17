@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff2d95" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff2d95" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2d95" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff2d95" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="neon" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c"><circle cx="250" cy="250" r="200"/></clipPath>
+  </defs>
+  <rect width="500" height="500" rx="60" fill="#000"/>
+  <circle cx="250" cy="250" r="230" fill="url(#g)"/>
+  <g fill="none" stroke="#ff2d95" stroke-opacity="0.45" stroke-width="3">
+    <circle cx="250" cy="250" r="200"/>
+    <circle cx="250" cy="250" r="140"/>
+    <circle cx="250" cy="250" r="80"/>
+    <path d="M50 250H450M250 50V450"/>
+  </g>
+  <g clip-path="url(#c)">
+    <path d="M250 250 L450 250 A200 200 0 0 0 392 109 Z" fill="url(#sw)">
+      <animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <circle cx="345" cy="160" r="9" fill="#ff2d95" filter="url(#neon)"/>
+  <circle cx="160" cy="345" r="6" fill="#ff8cc8"/>
+  <g transform="translate(355,330)" filter="url(#neon)">
+    <circle r="42" fill="#000" stroke="#ff2d95" stroke-width="5"/>
+    <path d="M6 -26 L-14 4 L0 4 L-6 26 L14 -4 L0 -4 Z" fill="#ff2d95"/>
+  </g>
+  <text x="236" y="292" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="150" font-weight="900" fill="#fff" stroke="#ff2d95" stroke-width="4" paint-order="stroke" filter="url(#neon)" letter-spacing="-6">JA</text>
+  <text x="250" y="420" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="22" fill="#ff8cc8" letter-spacing="6">&gt; ONLINE_</text>
+</svg>
