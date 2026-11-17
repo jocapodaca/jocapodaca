@@ -1,4 +1,4 @@
-![Jocelyn Apodaca: dispatch to detection to red team](./banner.svg)
+![Jocelyn Apodaca: dispatch to detection to red team](./banner-pink.svg)
 
 ```
 INCIDENT   #RT-0001                  PRIORITY  HIGH
