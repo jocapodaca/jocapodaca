@@ -15,7 +15,7 @@ NOTES      Trained to stay calm when everything is on fire.
 
 I work where things go wrong in real time. I'm a **Real Time Crime Center technician**: I fly drones, watch camera feeds, and dig up information that helps officers with active cases. I also work as a 911 dispatcher and communications training officer. Before that I was a telecommunicator on a military installation, where I held a DoD Secret clearance (current - inactive).
 
-Now I'm moving that instinct, *find the signal fast and act on it*, into **cybersecurity**. I'm finishing a B.S. in Information & Communication Technology (Cyber Defense, Netorking & Software Development), and I'm working toward **red teaming, especially AI red teaming**.
+Now I'm moving that instinct, *find the signal fast and act on it*, into **cybersecurity**. I'm finishing a B.S. in Information & Communication Technology (Cyber Defense, Networking & Software Development), and I'm working toward **red teaming, especially AI red teaming**.
 
 ---
 
